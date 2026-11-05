@@ -1,0 +1,13 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 打包生成
+build/
+dist/
+*.spec
+
+# 运行产生的本地数据
+study_data.json
+distractions/
+error_log.txt
